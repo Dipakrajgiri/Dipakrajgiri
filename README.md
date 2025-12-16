@@ -1,73 +1,143 @@
-<h1 align="center">Hi 👋, I'm Dipak Raj Giri</h1>
-<h3 align="center">Graduate Computer Engineer | Full-Stack Developer | AI/ML/DL Researcher | Licensed Engineer from Nepal</h3>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/T5iJp6I.gif" alt="animated banner" width="60%"/>
+</div>
 
+<!-- Profile Metrics with Modern Badges -->
+<div align="center" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=dipakrajgiri&label=PROFILE+VIEWS&color=0D8ABC&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/dipakrajgiri?logo=github&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/dipakrajgiri?logo=github&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="GitHub stars"/>
+</div>
+
+<!-- Gradient Divider -->
+<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
+
+<!-- Main Title with Gradient Effect -->
+<h1 align="center" style="font-size: 2.5rem; margin: 0; background: linear-gradient(90deg, #4F46E5, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Hi 👋, I'm Dipak Raj Giri
+</h1>
+
+<h3 align="center" style="margin-bottom: 20px;">
+  Computer Engineer | Full-Stack Developer | AI/ML/DL Researcher | Licensed Engineer
+</h3>
+
+<!-- Typing Animation -->
+<div align="center" style="margin: 20px 0; padding: 15px; background: rgba(16, 24, 39, 0.5); border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+solutions;Researching+Deep+Learning+innovations;Full-Stack+Development+Expert;Cloud+&+Docker+Deployments" alt="typing animation"/>
+</div>
+
+<!-- Section Divider -->
+<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/Dipakrajgiri/Moodomic">
+<img src="https://i.ibb.co/9yT7hPr/moodomic.png" width="90%"/>
+<br><strong>Moodomic</strong>
+</a>
+<p>AI-powered mental health platform (DistilBERT + LangChain + MERN + Docker)<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a></p>
+</td>
+
+<td width="33%" align="center">
+<a href="https://github.com/Dipakrajgiri/KhetTracker">
+<img src="https://i.ibb.co/8dP2k9F/krishigpt.png" width="90%"/>
+<br><strong>KrishiGPT (KhetTracker)</strong>
+</a>
+<p>AI agricultural assistant (FastAPI + RAG + NLP + real-time insights)<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a></p>
+</td>
+
+<td width="33%" align="center">
+<a href="https://github.com/Dipakrajgiri/Vecrosoft">
+<img src="https://i.ibb.co/LNqD6yZ/vecrosoft.png" width="90%"/>
+<br><strong>Vecrosoft</strong>
+</a>
+<p>CNN-based leaf disease detection (MERN + TensorFlow + PyTorch)</p>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/Dipakrajgiri/BloodStar">
+<img src="https://i.ibb.co/2Y6Z2xq/bloodstar.png" width="90%"/>
+<br><strong>BloodStar</strong>
+</a>
+<p>Blood donation platform (MERN + Real-time notifications)</p>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
+<img src="https://i.ibb.co/x3YFz0g/hearts-on-boxes.png" width="90%"/>
+<br><strong>Hearts-on-Boxes</strong>
+</a>
+<p>Interactive web-based game with responsive UI/UX</p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Languages & Frameworks
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/> C
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/> C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/> React
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" width="48" height="48"/> FastAPI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/> Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/> Express
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/> TensorFlow
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/> PyTorch
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/> Scikit-Learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/> Pandas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> NumPy
+</div>
+
+### Databases & Cloud
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/> MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"/> PostgreSQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/> Redis
+<img src="https://www.svgrepo.com/show/373458/aws.svg" width="48" height="48"/> AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48"/> Nginx
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48"/> Vercel
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48"/> Firebase
+</div>
+
+### Tools & Platforms
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/> Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/> GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/> Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="48" height="48"/> Postman
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> Figma
+</div>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipakrajgiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipakrajgiri" alt="GitHub Trophies" />
-  </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakrajgiri&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakrajgiri&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🚀 Current Focus
-- 🔬 Advancing expertise in **Deep Learning, Transformer Architectures, Generative AI, and LLM-powered systems**  
-- 🌱 Mastering **FastAPI, React.js, Node.js, LangChain, RAG-based AI systems, and scalable backend infrastructures**  
-- 💡 Exploring **real-time AI/ML applications, NLP innovations, fraud detection, and intelligent assistant systems**  
-- 📚 Researching **novel AI techniques for plant disease detection, climate analytics, and mental health applications**  
-
----
-
-### 💼 Featured Projects
-- **Moodomic** – AI-powered mental health platform (DistilBERT + LangChain + MERN Stack)  
-- **KrishiGPT (KhetTracker)** – AI-driven agricultural assistant providing real-time crop insights, pest/disease predictions (FastAPI + RAG + NLP)  
-- **Vecrosoft** – CNN-based leaf disease detection system (MERN + TensorFlow)  
-- **BloodStar** – MERN-based blood donation platform with secure authentication & real-time notifications  
-- **Hearts-on-Boxes** – Completed interactive game project with intuitive UI/UX  
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-<!-- Programming & Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-
-<!-- Frontend & Styling -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-
-<!-- Databases & Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-
-<!-- Tools & Platforms -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+## 🤝 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/dipak-raj-giri-970069234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://fb.com/dipak.rajgiri.393" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/giridipak743/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:giridipak743@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakrajgiri&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakrajgiri&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakrajgiri&" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/dipak-raj-giri-970069234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/dipak.rajgiri.393" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/giridipak743/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+© 2025 Dipak Raj Giri | Crafted with ❤️ using GitHub Markdown
