@@ -33,39 +33,39 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<a href="https://github.com/Dipakrajgiri/Moodomic">
-<br><strong>Moodomic</strong>
+<a href="https://youtu.be/Zyj87kJm3no">
+<img src="https://img.youtube.com/vi/Zyj87kJm3no/hqdefault.jpg" width="90%" alt="Moodomic Demo"/>
 </a>
+<br><strong>Moodomic</strong>
 <p>AI-powered mental health platform (DistilBERT + LangChain + MERN + Docker)<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a></p>
 </td>
 
 <td width="33%" align="center">
-<a href="https://github.com/Dipakrajgiri/KhetTracker">
-<br><strong>KrishiGPT (KhetTracker)</strong>
+<a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">
+<img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
 </a>
+<br><strong>KrishiGPT (KhetTracker)</strong>
 <p>AI agricultural assistant (FastAPI + RAG + NLP + real-time insights)<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a></p>
 </td>
 
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/Vecrosoft">
 <br><strong>Vecrosoft</strong>
-</a>
 <p>CNN-based leaf disease detection (MERN + TensorFlow + PyTorch)</p>
+</a>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
-<img src="https://i.ibb.co/x3YFz0g/hearts-on-boxes.png" width="90%"/>
 <br><strong>Hearts-on-Boxes</strong>
-</a>
 <p>Interactive web-based game with responsive UI/UX</p>
+</a>
 </td>
 </tr>
 </table>
 </div>
 
----
 
 ## 💻 Tech Stack & Tools
 
