@@ -42,7 +42,7 @@
 
 <td width="33%" align="center">
 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">
-<img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
+ <img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
 </a>
 <br><strong>KrishiGPT (KhetTracker)</strong>
 <p>AI agricultural assistant (FastAPI + RAG + NLP + real-time insights)<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a></p>
@@ -57,6 +57,10 @@
 </tr>
 <tr>
 <td width="33%" align="center">
+  <a href="https://youtu.be/JslX66_zKTE">
+  <img src="https://img.youtube.com/vi/JslX66_zKTE/hqdefault.jpg" width="90%" alt="Video Demo"/>
+</a>
+
 <a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
 <br><strong>Hearts-on-Boxes</strong>
 <p>Interactive web-based game with responsive UI/UX</p>
