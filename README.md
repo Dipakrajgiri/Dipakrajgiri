@@ -63,7 +63,6 @@
 
 <a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
 <br><strong>Hearts-on-Boxes</strong>
-<p>Interactive web-based game with responsive UI/UX</p>
 </a>
 </td>
 </tr>
