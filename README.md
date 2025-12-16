@@ -34,7 +34,6 @@
 <tr>
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/Moodomic">
-<img src="https://i.ibb.co/9yT7hPr/moodomic.png" width="90%"/>
 <br><strong>Moodomic</strong>
 </a>
 <p>AI-powered mental health platform (DistilBERT + LangChain + MERN + Docker)<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a></p>
@@ -42,7 +41,6 @@
 
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/KhetTracker">
-<img src="https://i.ibb.co/8dP2k9F/krishigpt.png" width="90%"/>
 <br><strong>KrishiGPT (KhetTracker)</strong>
 </a>
 <p>AI agricultural assistant (FastAPI + RAG + NLP + real-time insights)<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a></p>
@@ -50,20 +48,12 @@
 
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/Vecrosoft">
-<img src="https://i.ibb.co/LNqD6yZ/vecrosoft.png" width="90%"/>
 <br><strong>Vecrosoft</strong>
 </a>
 <p>CNN-based leaf disease detection (MERN + TensorFlow + PyTorch)</p>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-<a href="https://github.com/Dipakrajgiri/BloodStar">
-<img src="https://i.ibb.co/2Y6Z2xq/bloodstar.png" width="90%"/>
-<br><strong>BloodStar</strong>
-</a>
-<p>Blood donation platform (MERN + Real-time notifications)</p>
-</td>
 <td width="33%" align="center">
 <a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
 <img src="https://i.ibb.co/x3YFz0g/hearts-on-boxes.png" width="90%"/>
@@ -89,8 +79,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" width="48" height="48"/> FastAPI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/> Node.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/> Express
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/> TensorFlow
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/> PyTorch
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/> Scikit-Learn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/> Pandas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/> NumPy
@@ -100,12 +88,9 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/> MongoDB
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"/> PostgreSQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/> Redis
 <img src="https://www.svgrepo.com/show/373458/aws.svg" width="48" height="48"/> AWS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/> Docker
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48"/> Nginx
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48"/> Vercel
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48"/> Firebase
 </div>
 
 ### Tools & Platforms
@@ -137,4 +122,4 @@
 
 ---
 
-© 2025 Dipak Raj Giri | Crafted with ❤️ using GitHub Markdown
+© 2025 Dipak Raj Giri 
