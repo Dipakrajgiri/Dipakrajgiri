@@ -1,7 +1,4 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/T5iJp6I.gif" alt="animated banner" width="60%"/>
-</div>
+
 
 <!-- Profile Metrics with Modern Badges -->
 <div align="center" style="margin: 15px 0;">
