@@ -26,45 +26,72 @@
 
 <!-- Section Divider -->
 <div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
 <table>
 <tr>
+
+<!-- Moodomic -->
 <td width="33%" align="center">
 <a href="https://youtu.be/Zyj87kJm3no">
 <img src="https://img.youtube.com/vi/Zyj87kJm3no/hqdefault.jpg" width="90%" alt="Moodomic Demo"/>
 </a>
 <br><strong>Moodomic</strong>
-<p>AI-powered mental health platform (DistilBERT + LangChain + MERN + Docker)<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a></p>
+<p>
+AI-powered mental health platform leveraging RAG & LLMs  
+<br><em>(DistilBERT · LangChain · MERN · FastAPI . RAG)</em>
+<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Moodomic">GitHub Repository</a>
+</p>
 </td>
 
+<!-- KrishiGPT -->
 <td width="33%" align="center">
 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">
- <img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
+<img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
 </a>
 <br><strong>KrishiGPT (KhetTracker)</strong>
-<p>AI agricultural assistant (FastAPI + RAG + NLP + real-time insights)<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a></p>
+<p>
+AI-driven agricultural advisory system with real-time insights  
+<br><em>(FastAPI · MERN · RAG · ML · LLMs)</em>
+<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Project-by-4-Dimension">GitHub Repository</a>
+</p>
 </td>
 
+<!-- Vecrosoft -->
 <td width="33%" align="center">
-<a href="https://github.com/Dipakrajgiri/Vecrosoft">
+<a href="https://youtu.be/g1PswkPB0x8">
+<img src="https://img.youtube.com/vi/g1PswkPB0x8/hqdefault.jpg" width="90%" alt="Vecrosoft Demo"/>
+</a>
 <br><strong>Vecrosoft</strong>
-<p>CNN-based leaf disease detection (MERN + TensorFlow + PyTorch)</p>
-</a>
+<p>
+CNN-based leaf disease detection system  
+<br><em>(MERN · TensorFlow · PyTorch · CNN)</em>
+<br>🎬 <a href="https://youtu.be/g1PswkPB0x8">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Vecrosoft">GitHub Repository</a>
+</p>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center">
-  <a href="https://youtu.be/JslX66_zKTE">
-  <img src="https://img.youtube.com/vi/JslX66_zKTE/hqdefault.jpg" width="90%" alt="Video Demo"/>
-</a>
 
-<a href="https://github.com/Dipakrajgiri/hearts-on-boxes">
-<br><strong>Hearts-on-Boxes</strong>
+</tr>
+
+<tr>
+
+<!-- Hearts on Boxes -->
+<td width="33%" align="center">
+<a href="https://youtu.be/JslX66_zKTE">
+<img src="https://img.youtube.com/vi/JslX66_zKTE/hqdefault.jpg" width="90%" alt="Hearts-on-Boxes Demo"/>
 </a>
+<br><strong>Hearts-on-Boxes</strong>
+<p>
+C++-based implementation of the Dots and Boxes game  
+<br><em>(Second Semester Mini Project)</em>
+<br>🎬 <a href="https://youtu.be/JslX66_zKTE">Watch Demo</a>
+<br>💻 <a href="https://github.com/Dipakrajgiri/Block-Games-dots-and-boxes-">GitHub Repository</a>
+</p>
 </td>
+
 </tr>
 </table>
 </div>
