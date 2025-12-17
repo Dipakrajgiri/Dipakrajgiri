@@ -88,7 +88,7 @@ CNN-based leaf disease detection system
 C++-based implementation of the Dots and Boxes game  
 <br><em>(Second Semester Mini Project)</em>
 <br>🎬 <a href="https://youtu.be/JslX66_zKTE">Watch Demo</a>
-<br>💻 <a href="https://github.com/Dipakrajgiri/Block-Games-dots-and-boxes-">GitHub Repository</a>
+<br>💻 <a href="https://github.com/Dipakrajgiri/Block-Games-setup">GitHub Repository</a>
 </p>
 </td>
 
